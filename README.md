@@ -1,5 +1,4 @@
 # Understanding the relationship between gender and income. A data-driven analysis. 
-======
 
 ## Context
 This repository was a deliverable of a group project done during the Ironhack bootcamp on April 2026. As collaborator to the code and data analysis is Irish Levi Bawingan, also part of the same cohort. 
@@ -78,6 +77,11 @@ Key Findings:
 - Education showed similar distribution across genders, showing equal access of opportunities. 
 - Disparities are evident across occupation types. The occupations with higher income earners, like executive managerial and tech support, are fields with a high percentage of male over female subjects.
 - The prevalence of married couples in both high and low income is a reflection of the most common societal norms. However, at higher levels, there is a shift between women and men where women show higher distributions for divorce and single status. 
+
+## Structure of this repository
+
+The dataset can be found in the links given in the methodology. The repository contains the jupyter notebook with steps from data cleaning and visualization as well as key insights for each analysis. There are two additional csv files (male_conclusions.csv and female_conclusions.csv) which where manually modified after an output generated in the same notebook. This was done to manually combine some of the marital and relationship categories that were equivalent. Additional aspects about the dataset where interrogated through the adult_income.sq. 
+
 
 
 
